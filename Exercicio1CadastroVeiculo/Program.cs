@@ -37,6 +37,9 @@ namespace Exercicio1CadastroVeiculo
                     case 2:
                         ImprimirDados(v, p, e);
                         break;
+                    case 3:
+                        Console.WriteLine("Pressione qualquer tecla para fechar o programa!");
+                        break;
                 }
             } while (escolherMenu != 3);
 
@@ -47,39 +50,40 @@ namespace Exercicio1CadastroVeiculo
         {
             Console.WriteLine("Informe os dados do veículo:");
             Console.Write("Renavam: ");
-            int Renavam = int.Parse(Console.ReadLine());
+            v.Renavam = int.Parse(Console.ReadLine());
             Console.Write("Chassi: ");
-            int Chassi = int.Parse(Console.ReadLine());
+            v.Chassi = int.Parse(Console.ReadLine());
             Console.Write("Placa: ");
-            string Placa = Console.ReadLine();
+            v.Placa = Console.ReadLine();
             Console.Write("Marca: ");
-            string Marca = Console.ReadLine();
+            v.Marca = Console.ReadLine();
             Console.Write("Modelo: ");
-            string Modelo = Console.ReadLine();
+            v.Modelo = Console.ReadLine();
             Console.Write("Cor: ");
-            string Cor = Console.ReadLine();
+            v.Cor = Console.ReadLine();
             Console.Write("Ano: ");
-            int Ano = int.Parse(Console.ReadLine());
+            v.Ano = int.Parse(Console.ReadLine());
             Console.WriteLine("");
 
             Console.WriteLine("Informe os dados do proprietario:");
             Console.Write("CPF: ");
-            string Cpf = Console.ReadLine();
+            p.Cpf = Console.ReadLine();
             Console.Write("Nome: ");
-            string Nome = Console.ReadLine();
+            p.Nome = Console.ReadLine();
             Console.Write("Data de Nascimento: ");
-            string DataNascimento = Console.ReadLine();
+            p.DataNascimento = Console.ReadLine();
             Console.Write("Data da Compra: ");
-            string DataCompra = Console.ReadLine();
+            p.DataCompra = Console.ReadLine();
             Console.WriteLine("");
 
             Console.WriteLine("Informe o endereço do proprietario:");
             Console.Write("Logradouro: ");
-            string Logradouro = Console.ReadLine();
+            e.Logradouro = Console.ReadLine();
             Console.Write("Número: ");
-            int Numero = int.Parse(Console.ReadLine());
+            e.Numero = int.Parse(Console.ReadLine());
             Console.Write("Localidade: ");
-            string Localidade = Console.ReadLine();
+            e.Localidade = Console.ReadLine();
+            Console.WriteLine("");
         }
 
 

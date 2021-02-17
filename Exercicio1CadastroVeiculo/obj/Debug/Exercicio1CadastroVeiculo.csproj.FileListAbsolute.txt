@@ -1,0 +1,14 @@
+C:\Users\maiar\source\repos\Exercicio1CadastroVeiculo\Exercicio1CadastroVeiculo\obj\Debug\Exercicio1CadastroVeiculo.csprojAssemblyReference.cache
+C:\Users\maiar\source\repos\Exercicio1CadastroVeiculo\Exercicio1CadastroVeiculo\obj\Debug\Exercicio1CadastroVeiculo.csproj.CoreCompileInputs.cache
+C:\Users\maiar\source\repos\Exercicio1CadastroVeiculo\Exercicio1CadastroVeiculo\bin\Debug\Exercicio1CadastroVeiculo.exe.config
+C:\Users\maiar\source\repos\Exercicio1CadastroVeiculo\Exercicio1CadastroVeiculo\bin\Debug\Exercicio1CadastroVeiculo.exe
+C:\Users\maiar\source\repos\Exercicio1CadastroVeiculo\Exercicio1CadastroVeiculo\bin\Debug\Exercicio1CadastroVeiculo.pdb
+C:\Users\maiar\source\repos\Exercicio1CadastroVeiculo\Exercicio1CadastroVeiculo\obj\Debug\Exercicio1CadastroVeiculo.exe
+C:\Users\maiar\source\repos\Exercicio1CadastroVeiculo\Exercicio1CadastroVeiculo\obj\Debug\Exercicio1CadastroVeiculo.pdb
+C:\Users\maiar\source\repos\mgbatista\exercicio-cadastro-veiculo\Exercicio1CadastroVeiculo\bin\Debug\Exercicio1CadastroVeiculo.exe.config
+C:\Users\maiar\source\repos\mgbatista\exercicio-cadastro-veiculo\Exercicio1CadastroVeiculo\bin\Debug\Exercicio1CadastroVeiculo.exe
+C:\Users\maiar\source\repos\mgbatista\exercicio-cadastro-veiculo\Exercicio1CadastroVeiculo\bin\Debug\Exercicio1CadastroVeiculo.pdb
+C:\Users\maiar\source\repos\mgbatista\exercicio-cadastro-veiculo\Exercicio1CadastroVeiculo\obj\Debug\Exercicio1CadastroVeiculo.csprojAssemblyReference.cache
+C:\Users\maiar\source\repos\mgbatista\exercicio-cadastro-veiculo\Exercicio1CadastroVeiculo\obj\Debug\Exercicio1CadastroVeiculo.csproj.CoreCompileInputs.cache
+C:\Users\maiar\source\repos\mgbatista\exercicio-cadastro-veiculo\Exercicio1CadastroVeiculo\obj\Debug\Exercicio1CadastroVeiculo.exe
+C:\Users\maiar\source\repos\mgbatista\exercicio-cadastro-veiculo\Exercicio1CadastroVeiculo\obj\Debug\Exercicio1CadastroVeiculo.pdb
